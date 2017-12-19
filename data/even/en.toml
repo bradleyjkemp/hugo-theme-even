@@ -19,7 +19,7 @@ categories = "Categories"
   seeMarkDown = "The Markdown version »"
 
   [posts.header]
-    wordCount = "%d word"
+    wordCount = "%d words"
     readingTime = "%d min read"
 
 [copyright]
